@@ -1,0 +1,26 @@
+setuptools >= 41.0.0
+numpy
+scikit-learn
+scipy
+matplotlib>=3.3
+xlrd
+xlsxwriter
+pandas>=1.0
+h5py
+streamlit
+tensorflow
+keras
+joblib
+seaborn
+tqdm
+Unidecode
+liquer-framework
+plotly
+PyYAML>=5.3.1
+xgboost
+lightgbm
+beautifulsoup4
+lxml
+pyarrow
+bert-serving-server
+bert-serving-client
